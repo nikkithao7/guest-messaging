@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "content": "Good #reservationStartTime #guestName, and welcome to #companyName! #roomNumber is now ready for you. Enjoy your stay, and let us know if you need anything."
+  },
+  {
+    "id": 2,
+    "content": "Thank you for staying with #companyName. We hope you enjoyed your stay in room #roomNumber. #reservationEndTime, #guestName!"
+  },
+  {
+    "id": 3,
+    "content": "Thank you for checking in #guestName. Please let us know if you need anything at #companyName."
+  }
+]
